@@ -31,5 +31,5 @@ jobs:
 
     - uses: actions/upload-artifact@v3
       with:
-       name: upload dist to ubantu
+       name: upload dist to windows
        path: out
