@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "bytenode": "^1.5.3",
-    "electron": "^28.0.0"
+    "electron": "^25.6.0"
   }
 }
